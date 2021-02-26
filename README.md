@@ -1,4 +1,4 @@
-## Next.js + Firebase - The Full Course
+## Next.js + Firebase 
 
 - [Live Demo](https://next.fireship.io/)
 - [Enroll in the Course](https://fireship.io/courses/react-next-firebase/)
